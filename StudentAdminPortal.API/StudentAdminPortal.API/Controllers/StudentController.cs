@@ -21,9 +21,9 @@ namespace StudentAdminPortal.API.Controllers
 
         [HttpGet]
         [Route("Controller")]
-        public IActionResult GetAllStudent()
+        public async Task<IActionResult> GetAllStudent()
         {
-            IEnumerable<Student> students = obj.StudentRepository.GetAll(includeProperties:"Address,Gender");
+            IEnumerable<Student> students = await obj.StudentRepository.GetAll(includeProperties:"Address,Gender");
 
             return Ok(mapper.Map<List<ViewModels.Student>>(students));
             

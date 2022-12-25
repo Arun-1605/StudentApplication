@@ -27,7 +27,7 @@ namespace BulkyBook.DataAccess.Repository
             dbSet.Add(entity);
         }
         //includeProp - "Category,CoverType"
-        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null, string? includeProperties = null)
+        public async Task<IEnumerable<T>> GetAll(Expression<Func<T, bool>>? filter = null, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
             if (filter != null)
@@ -41,7 +41,7 @@ namespace BulkyBook.DataAccess.Repository
                     query = query.Include(includeProp);
                 }
             }
-            return query.ToList();
+            return await query.ToListAsync();
         }
 
         public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null)
