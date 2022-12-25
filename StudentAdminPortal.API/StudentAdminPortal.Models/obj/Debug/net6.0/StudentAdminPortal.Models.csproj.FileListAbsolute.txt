@@ -1,0 +1,12 @@
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\bin\Debug\net6.0\StudentAdminPortal.Models.deps.json
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\bin\Debug\net6.0\StudentAdminPortal.Models.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\bin\Debug\net6.0\StudentAdminPortal.Models.pdb
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\StudentAdminPortal.Models.csproj.AssemblyReference.cache
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\StudentAdminPortal.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\StudentAdminPortal.Models.AssemblyInfoInputs.cache
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\StudentAdminPortal.Models.AssemblyInfo.cs
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\StudentAdminPortal.Models.csproj.CoreCompileInputs.cache
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\StudentAdminPortal.Models.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\refint\StudentAdminPortal.Models.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\StudentAdminPortal.Models.pdb
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.Models\obj\Debug\net6.0\ref\StudentAdminPortal.Models.dll

@@ -1,0 +1,17 @@
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\bin\Debug\net6.0\StudentAdminPortal.DataAccess.deps.json
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\bin\Debug\net6.0\StudentAdminPortal.DataAccess.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\bin\Debug\net6.0\StudentAdminPortal.DataAccess.pdb
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\bin\Debug\net6.0\StudentAdminPortal.Models.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\bin\Debug\net6.0\StudentAdminPortal.Models.pdb
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.csproj.AssemblyReference.cache
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.AssemblyInfoInputs.cache
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.AssemblyInfo.cs
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.csproj.CoreCompileInputs.cache
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.csproj.CopyComplete
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\refint\StudentAdminPortal.DataAccess.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.pdb
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\ref\StudentAdminPortal.DataAccess.dll
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\bin\Debug\net6.0\StudentAdminPortal.DataAccess.runtimeconfig.json
+E:\UdemyLearning\Student Application\StudentApplication\StudentAdminPortal.API\StudentAdminPortal.DataAccess\obj\Debug\net6.0\StudentAdminPortal.DataAccess.genruntimeconfig.cache
