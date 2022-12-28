@@ -20,7 +20,7 @@ namespace StudentAdminPortal.API.Controllers
 
 
         [HttpGet]
-        [Route("Controller")]
+        [Route("Student")]
         public async Task<IActionResult> GetAllStudent()
         {
             IEnumerable<Student> students = await obj.StudentRepository.GetAll(includeProperties:"Address,Gender");
