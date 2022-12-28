@@ -6,6 +6,22 @@ using StudentAdminPortal.DataAccess.IRepository;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+#region RegionCorsTutor
+//builder.Services.AddCors((options) =>
+//{
+//    options.AddPolicy("angularApplication", (builder) =>
+
+//    {
+//        builder.WithOrigins("http://localhost:4200/")
+//    .AllowAnyHeader()
+//    .WithMethods(HttpMethods.Get, HttpMethods.Post, HttpMethods.Put, HttpMethods.Delete)
+//    .WithExposedHeaders("*");
+//    });
+
+//});
+#endregion
+
+
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServer(
@@ -17,6 +33,21 @@ builder.Services.AddAutoMapper(typeof(Program).Assembly);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+#region RegionCorsTutor
+builder.Services.AddCors((options) =>
+{
+    options.AddPolicy("angularApplication", (builder) =>
+
+    {
+        builder.WithOrigins("*")
+    .AllowAnyHeader()
+    .WithMethods(HttpMethods.Get, HttpMethods.Post, HttpMethods.Put, HttpMethods.Delete)
+    .WithExposedHeaders("*");
+    });
+
+});
+#endregion
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,6 +58,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+
+app.UseCors("angularApplication");
 
 app.UseAuthorization();
 
